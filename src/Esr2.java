@@ -11,7 +11,7 @@ public class Esr2 {
         String C = scanner.next();
 
         System.out.println(A+" "+B+" "+C);
-
+        System.out.println(C+" "+B+" "+A);
         scanner.close();
     }
 }
